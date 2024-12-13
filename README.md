@@ -1,8 +1,8 @@
-<h2 align="left">👋 What's up?</h2>
+<h2 align="left">👋 Hello, welcome to my profile!</h2>
 
 ###
 
-<h4 align="left">My name is Marcos Andrey da Silva, and I'm a Python developer from Sao Paulo, Brazil 🇧🇷🐍</h4>
+<h4 align="left">My name is Marcos, and I'm a Python developer from Sao Paulo, Brazil 🇧🇷🐍</h4>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm currently a student and every day I'm looking to improve furthermore my skills to be an excellent developer! My main skills are:<br><br>- Python Developer (also libraries/frameworks like Django, Celery, Pandas and so on...)<br>- API RESTful and Webhooks<br>- PostgreSQL + Docker<br>- Knowledge of good practices and clean architecture</p>
+<p align="left">I'm currently a student and every day I strive to further improve my skills to become an excellent developer! My main skills are:<br><br>- Python Developer (experience with libraries/frameworks such as Django, Celery, Pandas and more)<br>- API RESTful and Webhooks<br>- SQL/PostgreSQL<br>- Docker<br>- Good knowledge of good practices and clean architecture</p>
 
 ###
 
@@ -50,6 +50,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/marcosdrey/marcosdrey/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcosdrey&radius=16&theme=noctis-minimus&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
