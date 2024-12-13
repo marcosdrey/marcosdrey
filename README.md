@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">My name is Marcos, and I'm a Python developer from Sao Paulo, Brazil 🇧🇷🐍</h4>
+<h4 align="left">My name is Marcos, and I'm a Python developer from São Paulo, Brazil 🇧🇷🐍</h4>
 
 ###
 
